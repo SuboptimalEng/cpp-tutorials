@@ -68,7 +68,7 @@ Please give these a read if you disagree:
 
 ## Misc.
 
-- [ThePrimeagen's reaction to a rant from Jonathon Blow](https://www.youtube.com/watch?v=znmZA_n485I) regarding web dev is insightful
+- [ThePrimeagen's reaction to a rant from Jonathon Blow](https://www.youtube.com/watch?v=znmZA_n485I) regarding web dev is funny and insightful
 - [Getting Starting in Computer Graphics](https://www.jeremyong.com/graphics/2024/05/19/getting-started-in-computer-graphics/) by Jeremey Ong
 
 ## References
