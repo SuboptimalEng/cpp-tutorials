@@ -1,4 +1,4 @@
-# 🔮 C++ Tutorials
+# ⚙️ C++ Tutorials
 
 This repo contains the code for my C++ tutorials on YouTube. Since C++ is a huge
 language, I plan to use Bjarne Stoustrup's [4th edition exercises](https://www.stroustrup.com/4thExercises.pdf)
