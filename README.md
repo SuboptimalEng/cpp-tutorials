@@ -39,10 +39,10 @@ I started my career in TypeScript as a full-stack web developer. Got bored a few
 years ago and transitioned to working in computer graphics. C++ is the "lingua
 franca" of graphics programming so I decided to learn it.
 
-Additionally, as an engineer, it's always good to be familiar with a
-statically typed langauge -- especially, if you've spent your entire career
-solely in the JavaScript or Python ecosystem. I'd definitely recommend
-learning a language like C++, Java, or Go.
+Additionally, as an engineer, it's always good to be familiar with a statically
+typed langauge -- especially, if you've spent your entire career solely in the
+JavaScript (or Python) ecosystem. I'd definitely recommend learning a language
+like C++, Java, or Go.
 
 <!-- I've also discussed my reasoning for why I'm switching from TypeScript to C++
 for graphics programming in this [YouTube video](https://www.youtube.com/watch?v=PbN_Arh8_ec). -->
