@@ -76,7 +76,7 @@ Please give these a read if you disagree:
 ## Misc.
 
 - [ThePrimeTime reacts to a rant from Jonathon Blow](https://www.youtube.com/watch?v=znmZA_n485I) that I found funny and insightful
-- [Getting Starting in Computer Graphics](https://www.jeremyong.com/graphics/2024/05/19/getting-started-in-computer-graphics/), by Jeremey Ong
+- [Getting Starting in Computer Graphics](https://www.jeremyong.com/graphics/2024/05/19/getting-started-in-computer-graphics/) by Jeremey Ong
 
 ## References
 
