@@ -6,7 +6,7 @@ as a rough guide for my study plan and video series. However, I don't plan
 to follow it to the letter. I will likely deviate from it often and go over
 topics that I find interesting as I learn them.
 
-As such, this C++ tutorials are not meant to be consumed in any specific order
+As such, these C++ tutorials are not meant to be consumed in any specific order
 (even though each folder will be numbered). This ordering represents "the moment
 in time when I found that specific topic interesting". It does NOT represent
 "the order in which you should learn that topic".
