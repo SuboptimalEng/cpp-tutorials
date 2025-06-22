@@ -6,26 +6,18 @@
 
 ## Answer
 
-The compiler essentially converts .cpp files to .o files. This basically
-converts plain C++ files into machine code. But they are not ready for
-use yet!
+The compiler (clang, gcc, etc.) essentially converts .cpp files to .o
+files. This basically converts plain C++ into machine code. But they are
+not ready for use yet!
 
 The linker needs to combine the .o files together and make an executable.
+
+Note that the compiler is technically responsible for compiling the code
+and also for linking it. The main takeaway is that they are run as 2
+separate steps internally. And we can simulate this when testing.
 
 Why do these exist in 2 phases?
 
 - It's faster. We don't want to recompile 100s of C++ files if we
   only change the main.cpp file.
 - Parallel! Each C++ file can be compiled individually.
-
-Funnily enough, the compiler compiles the code and links it too! Which was
-surprising to me at first, but makes sense when you look at a make file.
-
-```bash
-# this compiles main.cpp into main.o and then creates the main executable
-main:
-  clang++ main.cpp -o main
-
-clean:
-  rm -f main
-```

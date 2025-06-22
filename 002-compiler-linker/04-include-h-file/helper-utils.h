@@ -1,0 +1,2 @@
+
+void goodbye_world();
