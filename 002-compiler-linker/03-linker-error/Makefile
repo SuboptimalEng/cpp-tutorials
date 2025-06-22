@@ -7,7 +7,7 @@
 # 	clang++ main.cpp -o main
 
 # Let's do this in 2 separate steps
-main:
+main: main.o
 	clang++ main.o -o main
 
 main.o:

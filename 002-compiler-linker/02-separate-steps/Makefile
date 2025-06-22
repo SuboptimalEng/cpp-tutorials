@@ -3,7 +3,7 @@
 # ===
 
 # This tells the compiler to link the code and create executable.
-main:
+main: main.o
 	clang++ main.o -o main
 
 # -c flag tells compiler to only compile the code.

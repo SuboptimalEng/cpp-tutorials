@@ -9,4 +9,4 @@ main:
 
 # Clean all files from directory.
 clean:
-	rm -f main
+	rm -f main.o main

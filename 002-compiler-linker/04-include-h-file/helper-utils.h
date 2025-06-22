@@ -1,2 +1,2 @@
 
-void goodbye_world();
+void goodbye_world(int count);
