@@ -35,10 +35,9 @@ ways to do it in C++, which might be fun to learn and explain.)
 
 ## Why am I learning C++?
 
-I started my career in TypeScript as a full-stack web developer. Got bored
-a few years ago and started transitioning to working in computer graphics.
-C++ is the "lingua franca" of graphics programming so I figured I should be
-familiar with how it works.
+I started my career in TypeScript as a full-stack web developer. Got bored a few
+years ago and transitioned to working in computer graphics. C++ is the "lingua
+franca" of graphics programming so I decided to get comfortable with it.
 
 Additionally, as an engineer, it's always good to be familiar with a
 statically typed langauge -- especially, if you've spent your entire career
