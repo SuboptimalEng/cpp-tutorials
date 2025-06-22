@@ -64,7 +64,8 @@ definitive stance on the matter.
 Please give these a read if you disagree:
 
 - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-- [Discussion on HackerNews about above article](https://news.ycombinator.com/item?id=40172033)
+  - [Discussion on Reddit](https://www.reddit.com/r/rust/comments/1cdqdsi/lessons_learned_after_3_years_of_fulltime_rust/)
+  - [Discussion on HackerNews](https://news.ycombinator.com/item?id=40172033)
 
 ## Misc.
 
