@@ -76,4 +76,4 @@ Please give these a read if you disagree:
 
 - [The C++ Programming Language, 4th Edition](https://www.stroustrup.com/4th.html) by Bjarne Stoustrup
 - [4th Edition Exercises](https://www.stroustrup.com/4thExercises.pdf) by Bjarne Stoustrup
-- ChatGPT and Gemini (if these count as resources)
+- ChatGPT and Gemini (if these count)
