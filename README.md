@@ -70,8 +70,8 @@ definitive stance on the matter.
 
 Please give these a read if you disagree:
 
-- [Leaving Rust gamedev after 3 years.](https://loglog.games/blog/leaving-rust-gamedev/)
-- [Discussion on HackerNews about above article.](https://news.ycombinator.com/item?id=40172033)
+- [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
+- [Discussion on HackerNews about above article](https://news.ycombinator.com/item?id=40172033)
 
 ## Misc.
 
