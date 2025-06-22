@@ -1,8 +1,8 @@
 # C++ Tutorials
 
 This repo contains the code for my C++ tutorial series on YouTube. Since
-C++ is a huge language, I plan to use Bjarne Stoustrup's [4th edition exercises](https://www.stroustrup.com/4thExercises.pdf)
-PDF as a rough guide for my study plan and video series. However, I don't plan
+C++ is a huge language, I plan to use Bjarne Stoustrup's [4th edition exercises PDF](https://www.stroustrup.com/4thExercises.pdf)
+as a rough guide for my study plan and video series. However, I don't plan
 to follow it to the letter. I will likely deviate from it often and go over
 topics that I find interesting as I learn them.
 
