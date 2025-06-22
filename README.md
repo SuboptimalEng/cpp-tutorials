@@ -23,10 +23,10 @@ We'll see how that goes. -->
 
 First and foremost, these C++ tutorials are meant for me. I found that I tend
 to forget topics that I've previously learned (in a few months time) if I don't
-use them on day-to-day basis. For example, I'll definitely forget many of the
-`lldb` commands if I don't use them often enough. So these tutorials act as a
-reference for my future self in-case I need a quick guide to help me get back up
-to speed.
+use them on day-to-day basis. For example, there is a high probability that I'll
+forget many of the `lldb` commands (I mentioned in my video) for this very reason.
+These tutorials act as a reference for my future self in case I need a quick guide
+to help me get back up to speed.
 
 Aside from me, the type of person who will find these tutorials most useful is
 someone who who has completed 2+ years of undergraduate study in computer science.
