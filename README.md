@@ -11,13 +11,13 @@ As such, these C++ tutorials are not meant to be consumed in any specific order
 in time when I found that specific topic interesting". It does NOT represent
 "the order in which you should learn that topic".
 
-For example, the first folder, titled `01-gdb-lldb-debugging` is likely a
+<!-- For example, the first folder, titled `01-gdb-lldb-debugging` is likely a
 topic at the intermediate level, but I learned it first (and made a video)
 because I needed to step through some SFML code in my Shader Game Engine. The
 second folder titled `02-compiler-linker` is a beginner friendly topic, but I
 dove into it at a later point. In my ideal world, each video and/or folder is
 fully self-contained and has all the info needed to learn that specific topic.
-We'll see how that goes.
+We'll see how that goes. -->
 
 ## Who is this for?
 
