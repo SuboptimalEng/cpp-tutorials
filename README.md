@@ -45,14 +45,13 @@ statically typed langauge -- especially, if you've spent your entire career
 solely in the JavaScript or Python ecosystem. I'd definitely recommend
 learning a language like C++, Java, or Go.
 
-I've also discussed my reasoning for why I'm switching from TypeScript to C++
-for graphics programming in this [YouTube video](https://www.youtube.com/watch?v=PbN_Arh8_ec).
+<!-- I've also discussed my reasoning for why I'm switching from TypeScript to C++
+for graphics programming in this [YouTube video](https://www.youtube.com/watch?v=PbN_Arh8_ec). -->
 
 ## Why not Rust?
 
 One of the most common questions I got when explaining my reasons for switching
-from TypeScript to C++ for graphics programming was -- "Why not Rust"? Here is
-a section dedicated to this question.
+from TypeScript to C++ for graphics programming was -- "Why not Rust"?
 
 The short answer, is that I don't like programming in Rust.
 
