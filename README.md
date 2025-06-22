@@ -19,12 +19,6 @@ dove into it at a later point. In my ideal world, each video and/or folder is
 fully self-contained and has all the info needed to learn that specific topic.
 We'll see how that goes.
 
-## Why am I making these C++ videos?
-
-I love to teach and help others learn -- it's the whole reason I started my
-YouTube channel! I've also found that teaching others helps me improve my
-communication skills and understand topics at a deeper level.
-
 ## Who is this for?
 
 First and foremost, these C++ tutorials are meant for me. I find that I tend
