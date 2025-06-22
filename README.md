@@ -30,8 +30,8 @@ for my future self in case I need a quick guide to help me get back up to speed.
 Aside from me, the type of person who will find these tutorials most useful is
 someone who who has completed 2+ years of undergraduate study in computer science.
 You won't see me make a tutorial like "How to write a for-loop in C++" because
-I don't find that interesting. (Unless of course, there are some very obscure
-ways to do it in C++, which might be fun to learn and explain.)
+I don't find that interesting. (Unless of course, there are some very obscure or
+interesting ways to do that in C++, which sounds fun to learn and explain.)
 
 ## Why am I learning C++?
 
