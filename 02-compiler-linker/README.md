@@ -4,7 +4,7 @@
 
 - [2] (∗1) What does a compiler do? What does a linker do?
 
-# Answer
+## Answer
 
 The compiler essentially converts .cpp files to .o files. This basically
 converts plain C++ files into machine code. But they are not ready for

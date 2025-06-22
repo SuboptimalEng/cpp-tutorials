@@ -40,7 +40,7 @@ years ago and transitioned to working in computer graphics. C++ is the "lingua
 franca" of graphics programming so I decided to learn it.
 
 Additionally, as an engineer, it's always good to be familiar with a statically
-typed langauge -- especially, if you've spent your entire career solely in the
+typed, compiled langauge -- especially, if you've spent your entire career in the
 JavaScript (or Python) ecosystem. I'd definitely recommend learning a language
 like C++, Java, or Go.
 
