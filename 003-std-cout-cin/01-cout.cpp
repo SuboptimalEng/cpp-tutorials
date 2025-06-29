@@ -17,6 +17,7 @@ int main() {
   std::cout << "int: " << default_int << "\n";
   std::cout << "double: " << default_double << "\n";
   std::cout << "string: " << default_string << "\n";
+  std::cout << "\n";
 
   return 0;
 }
