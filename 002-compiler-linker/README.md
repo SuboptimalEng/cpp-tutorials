@@ -1,6 +1,6 @@
 # TCPPL Question Reference
 
-#### X.3 A Tour of C++: The Basics
+## X.3 A Tour of C++: The Basics
 
 - [2] (∗1) What does a compiler do? What does a linker do?
 
