@@ -11,7 +11,7 @@ int main() {
 
   std::cout << "\ntaking user input...\n\n";
   std::cout << "input bool: ";
-  std::cin >> my_bool;  // does this work?
+  std::cin >> my_bool;  // does this work for true or false?
 
   std::cout << "input char: ";
   std::cin >> my_char;
