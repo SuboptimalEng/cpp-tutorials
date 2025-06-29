@@ -9,6 +9,7 @@ int main() {
 
   std::cout << "\nprinting default output...\n\n";
   std::cout << "bool: " << default_bool << "\n";
+  std::cout << "bool: " << std::boolalpha << default_bool << "\n";
   std::cout << "char: " << default_char << "\n";
   std::cout << "int: " << default_int << "\n";
   std::cout << "double: " << default_double << "\n";
