@@ -1,7 +1,7 @@
 # ⚙️ C++ Tutorials
 
 This repo contains the code for my C++ tutorials on YouTube. Since C++ is a huge
-language, I plan to use Bjarne Stoustrup's [4th edition exercises](https://www.stroustrup.com/4thExercises.pdf)
+language, I plan to use LearnCPP.com and Bjarne Stoustrup's [4th edition exercises PDF](https://www.stroustrup.com/4thExercises.pdf)
 as a rough guide for my study plan (and videos). However, I don't plan to follow
 them to the letter. I will likely deviate from them and go over any topic that I
 find interesting.
@@ -73,6 +73,7 @@ Please give these a read if you disagree:
 
 ## References
 
-- [The C++ Programming Language, 4th Edition](https://www.stroustrup.com/4th.html) by Bjarne Stoustrup
+- [LearnCpp.com](https://www.learncpp.com/)
 - [4th Edition Exercises](https://www.stroustrup.com/4thExercises.pdf) by Bjarne Stoustrup
+- [The C++ Programming Language, 4th Edition](https://www.stroustrup.com/4th.html) by Bjarne Stoustrup
 - ChatGPT and Gemini (if these count)
