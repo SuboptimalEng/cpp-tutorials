@@ -21,10 +21,8 @@ int main() {
   std::cout << "input double: ";
   std::cin >> my_double;
 
-  std::cin.ignore();
   std::cout << "input string: ";
-  // std::cin >> my_string;
-  std::getline(std::cin, my_string);
+  std::cin >> my_string;  // does this work for multiple words?
 
   std::cout << "\nprinting user input...\n\n";
   std::cout << "my_bool: " << my_bool << std::endl;
