@@ -74,7 +74,7 @@ Please give these a read if you disagree:
 
 ## References
 
-- [LearnCpp.com](https://www.learncpp.com/)
+- [LearnCpp.com](https://www.learncpp.com/) by Alex Pomeranz
 - [4th Edition Exercises](https://www.stroustrup.com/4thExercises.pdf) by Bjarne Stoustrup
 - [The C++ Programming Language, 4th Edition](https://www.stroustrup.com/4th.html) by Bjarne Stoustrup
 - ChatGPT and Gemini (if these count)
