@@ -24,7 +24,7 @@ int main() {
   std::cout << "\ntaking user input...\n\n";
   std::cout << "input bool: ";
   std::cin >> my_bool;
-  std::cin >> std::boolalpha >> my_bool;
+  // std::cin >> std::boolalpha >> my_bool;
 
   std::cout << "input char: ";
   std::cin >> my_char;
