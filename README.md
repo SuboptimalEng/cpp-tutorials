@@ -3,7 +3,7 @@
 This repo contains the code for my C++ tutorials on YouTube. Since C++ is a huge
 language, I plan to use [LearnCPP.com](https://www.learncpp.com/) and Bjarne
 Stoustrup's [4th edition exercises PDF](https://www.stroustrup.com/4thExercises.pdf)
-as a rough guide for my study plan (and videos). However, I don't plan to follow
+as a rough guide for my study plan (and videos). But, I don't plan to follow
 them to the letter. I will likely deviate from them and go over any topic that I
 find interesting.
 
