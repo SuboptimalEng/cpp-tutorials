@@ -1,10 +1,10 @@
 # TCPPL Question Reference
 
-## X.3 A Tour of C++: The Basics
+### X.3 A Tour of C++: The Basics
 
 - [2] (∗1) What does a compiler do? What does a linker do?
 
-## Answer
+### Answer
 
 The compiler (clang, gcc, etc.) essentially converts .cpp files to .o
 files. This basically converts plain C++ into machine code. But they are

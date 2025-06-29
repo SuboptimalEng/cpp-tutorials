@@ -1,6 +1,6 @@
 # TCPPL Question Reference
 
-## X.3 A Tour of C++: The Basics
+### X.3 A Tour of C++: The Basics
 
 - [5] (∗1) Write out a bool, a char, an int, a double, and a string.
 - [6] (∗1) Read in a bool, a char, an int, a double, and a string.
