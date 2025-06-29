@@ -1,13 +1,13 @@
-main: main1 main2 main3
+main: 01-cout 02-cin-bool 03-cin-string
 
-main1:
-	clang++ 01-cout.cpp -o main1
+01-cout: 01-cout.cpp
+	clang++ 01-cout.cpp -o 01-cout
 
-main2:
-	clang++ 02-cin-bool.cpp -o main2
+02-cin-bool: 02-cin-bool.cpp
+	clang++ 02-cin-bool.cpp -o 02-cin-bool
 
-main3:
-	clang++ 03-cin-string.cpp -o main3
+03-cin-string: 03-cin-string.cpp
+	clang++ 03-cin-string.cpp -o 03-cin-string
 
 clean:
-	rm -f main1 main2 main3
+	rm -f 01-cout 02-cin-bool 03-cin-string

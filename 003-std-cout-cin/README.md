@@ -4,13 +4,13 @@
 - [6] (∗1) Read in a bool, a char, an int, a double, and a string.
 
 ```bash
-# Run make to build main1, main2, main3
+# Run make to build the 3 separate executables
 make
 
-# run each by doing the following
-./main1
-./main2
-./main3
+# run each executable by running the following commands
+./01-cout
+./02-cin-bool
+./03-cin-string
 
 make clean
 ```
