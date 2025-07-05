@@ -53,19 +53,17 @@ for graphics programming in this [YouTube video](https://www.youtube.com/watch?v
 One of the most common questions I got when explaining my reasons for switching
 from TypeScript to C++ for graphics programming was -- "Why not Rust"?
 
-The short answer, is that I don't like programming in Rust.
+The short answer, is that I don't like programming in Rust. Please give these a read if you want a better reason than that:
+
+- [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
+  - [Discussion on Reddit](https://www.reddit.com/r/rust/comments/1cdqdsi/lessons_learned_after_3_years_of_fulltime_rust/)
+  - [Discussion on HackerNews](https://news.ycombinator.com/item?id=40172033)
 
 <!-- The long answer, is that I strongly believe C/C++ is the best language for
 graphics programming (and many other subfields of computer science that I find
 interesting). I do not believe this is going to change anytime in the next 5-7
 years. I'm always happy to update my priors, but for the time being, this is my
 definitive stance on the matter. -->
-
-Please give these a read if you want a better reason than that:
-
-- [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-  - [Discussion on Reddit](https://www.reddit.com/r/rust/comments/1cdqdsi/lessons_learned_after_3_years_of_fulltime_rust/)
-  - [Discussion on HackerNews](https://news.ycombinator.com/item?id=40172033)
 
 ## Misc.
 
