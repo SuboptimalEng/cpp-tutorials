@@ -15,7 +15,7 @@
         "-Wall",
         "-Werror",
         "&&",
-        "./main"
+        "./${fileBasenameNoExtension}"
       ],
       "options": {
         "cwd": "${fileDirname}"
