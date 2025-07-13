@@ -106,10 +106,9 @@ clang++ -std=c++17 main.cpp -o sfml-app \
 
 And that's how you get SFML up and running on Intel Macs.
 
-And now, I have some questions for you. Have you ever struggled with
-getting C++ projects up and running? Should I go over how to do this
-with CMake next? What about setting up ImGui for handling user input?
-Leave anything related to SFML, C++, or computer graphics down in the
-comments below.
+And now, I have some questions for you. Have you ever struggled with getting
+C++ projects up and running? Should I go over how to do this with CMake next?
+What about setting up ImGui for handling user input and uniform data? Leave
+anything related to SFML, C++, or computer graphics down in the comments below.
 
 Thanks for watching, and I'll catch you guys next time.
