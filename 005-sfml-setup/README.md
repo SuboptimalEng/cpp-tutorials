@@ -1,4 +1,4 @@
-## SFML Setup Guide
+# SFML Setup Guide
 
 The best way to learn C++ is not by reading books or following
 tutorials. The best way to learn is to come up with a project idea and
@@ -21,7 +21,7 @@ And of course, if you like this type of content, all I ask in return is
 a like for the YouTube algorithm. With that out of the way, let's get
 started.
 
-### SFML Homebrew Setup Tutorial
+## SFML Homebrew Setup Tutorial
 
 Note that there are many different ways to setup and run SFML, this is
 just the approach that helped me get things running very quickly. It boils
@@ -32,7 +32,7 @@ down to 4 simple steps.
 3. Run clang to compile + link the SFML library with the code in `main.cpp`.
 4. Run the executable.
 
-#### 1. Install homebrew and SFML (via homebrew).
+### 1. Install homebrew and SFML (via homebrew).
 
 ```bash
 # install homebrew, the package manager for MacOS
@@ -51,7 +51,7 @@ brew install sfml
 # /opt/homebrew/opt/sfml/                  # Symlink to current version
 ```
 
-#### 2. Create `main.cpp` file with sample SFML code.
+### 2. Create `main.cpp` file with sample SFML code.
 
 ```cpp
 #include <SFML/Graphics.hpp>
@@ -79,7 +79,7 @@ int main() {
 }
 ```
 
-#### 3. Run clang to compile + link SFML library with the code in `main.cpp`.
+### 3. Run clang to compile + link SFML library with the code in `main.cpp`.
 
 ```bash
 # on Intel Macs
@@ -96,13 +96,13 @@ clang++ -std=c++17 main.cpp -o sfml-app \
 
 ```
 
-#### 4. Run the executable.
+### 4. Run the executable.
 
 ```bash
 ./sfml-app
 ```
 
-### Conclusion
+## Conclusion
 
 And that's how you get SFML up and running on Intel Macs.
 
