@@ -1,17 +1,15 @@
 # SFML Setup Guide
 
-The best way to learn C++ is not by reading books or following
-tutorials. The best way to learn is to come up with a project idea and
-build it. And my favorite type of projects are video games!
+The best way to learn C++ is to come up with a project idea and build
+it. And my favorite type of projects are video games!
 
 In this video, we will go over how to set up a C++ project with SFML.
 the Simple Fast Multimedia Library. This is an open source C++ library
 that makes it easy to build games, simulations, and interactive tools.
 
-It is used by popular YouTubers like Pezzza for their AntSimulator, and
-Hopson97 for their MineCraft clone. And since I spent an entire weekend
-learning how to set it up, I figured I could help anyone else trying to
-do the same thing.
+It is used by popular YouTubers like Pezzza for their AntSimulator. And
+since I spent an entire weekend learning how to set it up, I figured I
+could help anyone else trying to do the same thing.
 
 Keep in mind that we will go over how to setup SFML on Intel Macs, but
 the steps are almost identical to get it running on Macs with Apple
