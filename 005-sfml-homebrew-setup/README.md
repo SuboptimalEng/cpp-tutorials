@@ -1,7 +1,7 @@
 # SFML Setup Guide
 
-The best way to learn C++ is to come up with a project idea and build
-it. And my favorite type of projects are video games!
+<!-- The best way to learn C++ is to come up with a project idea and build
+it. And my favorite type of projects are video games! -->
 
 In this video, we will go over how to set up a C++ project with SFML.
 the Simple Fast Multimedia Library. This is an open source C++ library
@@ -15,9 +15,9 @@ Keep in mind that we will go over how to setup SFML on Intel Macs, but
 the steps are almost identical to get it running on Macs with Apple
 silicon.
 
-And of course, if you like this type of content, all I ask in return is
+<!-- And of course, if you like this type of content, all I ask in return is
 a like for the YouTube algorithm. With that out of the way, let's get
-started.
+started. -->
 
 ## SFML Homebrew Setup Tutorial
 
