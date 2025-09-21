@@ -1,6 +1,6 @@
 # No `return 0;` in `int main()`
 
-## TL;DR
+## Overview
 
 - I would always write `return 0;` inside the `int main()` function because I thought it was required
 - This may have been a force of habit from learning C in a computer architecture course in college
