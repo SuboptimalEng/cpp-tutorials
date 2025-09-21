@@ -1,0 +1,20 @@
+TranslationUnitDecl
+|- TypedefDecl __int128_t '__int128' (implicit)
+|  `- BuiltinType '__int128'
+|- TypedefDecl __uint128_t 'unsigned __int128' (implicit)
+|  `- BuiltinType 'unsigned __int128'
+|- TypedefDecl __NSConstantString '__NSConstantString_tag' (implicit)
+|  `- RecordType '__NSConstantString_tag'
+|     `- CXXRecord '__NSConstantString_tag'
+|- TypedefDecl __builtin_ms_va_list 'char *' (implicit)
+|  `- PointerType 'char *'
+|     `- BuiltinType 'char'
+|- TypedefDecl __builtin_va_list '__va_list_tag[1]' (implicit)
+|  `- ConstantArrayType '__va_list_tag[1]' size=1
+|     `- RecordType '__va_list_tag'
+|        `- CXXRecord '__va_list_tag'
+`- FunctionDecl main 'int ()'
+   `- CompoundStmt
+      `- DeclStmt
+         `- VarDecl a 'int' cinit
+            `- IntegerLiteral 123
