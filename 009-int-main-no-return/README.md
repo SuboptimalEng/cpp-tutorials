@@ -4,7 +4,7 @@
 
 - I would always write `return 0;` inside the `int main()` function because I thought it was required
 - This may have been a force of habit from learning C in a computer architecture course in college
-- Turns out that `return 0;` is option, and not required in `int main()`
+- Turns out that `return 0;` is optional (and not required in `int main()`)
 - The following code (with no return statement in the main function) will compile and run correctly
 - In order to investigate why, we need to understand the compiler. (In this case Clang.)
 
