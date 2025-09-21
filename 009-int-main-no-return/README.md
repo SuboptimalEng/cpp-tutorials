@@ -1,4 +1,4 @@
-# No Return in Int Main
+# No `return 0;` in `int main()`
 
 ## TL;DR
 
