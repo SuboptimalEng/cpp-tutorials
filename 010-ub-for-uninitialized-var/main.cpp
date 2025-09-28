@@ -12,14 +12,7 @@ void f2() {
   std::cout << "Value of a is: " << a << std::endl;
 }
 
-// void undefined_behavior() {
-//   char a[7];
-//   std::cout << a;
-//   // ^ uninitialized var leaks secret
-// }
-
 int main() {
   f1();
   f2();
-  // undefined_behavior();
 }
