@@ -73,13 +73,13 @@ main`f1:
 # Process 4758 stopped
 ```
 
+## Titles
+
+- How C++ 26 Fixes Undefined Behavior for Unintialized Local Variables
+- How C++ Prevents Undefined Behavior for Uninitialized Local Variables
+
 ## References
 
 - Herb Sutter's Keynote at C++ on Sea - https://www.youtube.com/watch?v=kKbT0Vg3ISw
 - Herb Sutter's Website - https://herbsutter.com/
 - ChatGPT and Gemini (if these count)
-
-## Title
-
-- How C++ 26 Fixes Undefined Behavior for Unintialized Local Variables
-- How C++ Prevents Undefined Behavior for Uninitialized Local Variables
