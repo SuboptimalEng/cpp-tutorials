@@ -18,10 +18,13 @@
 
 ## LLDB Init Settings
 
-- Add this to `~/.lldbinit` file
+- Add the settings with `vim ~/.lldbinit`
 
 ```bash
 # file -> ~/.lldbinit
+
+# lldb (gdb)
+# custom settings
 
 # break point at main
 breakpoint set --name main
