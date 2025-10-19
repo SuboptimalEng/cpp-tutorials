@@ -21,7 +21,7 @@
 - Add the settings with `vim ~/.lldbinit`
 
 ```bash
-# file -> ~/.lldbinit
+# vim ~/.lldbinit
 
 # lldb (gdb)
 # custom settings
