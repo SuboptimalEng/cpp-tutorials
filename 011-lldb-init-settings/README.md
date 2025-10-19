@@ -38,6 +38,7 @@ target stop-hook add -o "disassemble"
 
 ## Titles
 
+- How to Customize LLDB Settings to Debug C++ on MacOS
 - How to Improve LLDB Debugger Developer Experience?
 - How to Improve LLDB (gdb) Developer Experience for Debugging?
 - How to Improve LLDB (GDB) Developer Experience with Custom Settings
