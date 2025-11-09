@@ -27,6 +27,18 @@ int count_one_bits(int num) {
   return count;
 }
 
+// thumbnail code...
+// 8 -> 1000 -> 1
+// 13 -> 1101 -> 3
+int counting_bits(int n) {
+  int c = 0;
+  while (n) {
+    (n & 1) == 1 ? c++ : 0;
+    n >>= 1;
+  }
+  return c;
+}
+
 int main() {
   // 0 -> 0000 -> 0
   // 1 -> 0001 -> 1

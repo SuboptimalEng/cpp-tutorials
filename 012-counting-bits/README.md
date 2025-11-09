@@ -30,7 +30,7 @@ p/t (uint_t)(9 & 1)
 
 - How to Count Bits with Bit Manipulation | C++ Tutorial
 - How to Count Bits with Bit Manipulation in C++ | C++ Tutorial
-- Counting Bits in C++ with Bit Manipulation | C++ Tutorial
+- Counting Bits in C++ Interview Question | C++ Tutorial
 - Bit Manipulation Interview Question | C++ Tutorial
 - Bit Manipulation is Easy | C++ Tutorial
 
