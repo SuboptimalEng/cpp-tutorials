@@ -8,7 +8,6 @@ void print(int number, int result, int expected) {
 }
 
 // count the number of `1` bits
-// 1101 & 1 -> 1
 // 12 -> 1100 -> 2
 int counting_bits(int num) {
   int count = 0;
