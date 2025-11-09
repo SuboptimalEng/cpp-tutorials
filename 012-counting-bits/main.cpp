@@ -7,7 +7,7 @@ void print(int number, int result, int expected) {
        << result << ", expected -> " << expected << endl;
 }
 
-// count the number of `1` bits in a number
+// count the number of `1` bits
 int count_one_bits(int num) {
   int count = 0;
   while (true) {
