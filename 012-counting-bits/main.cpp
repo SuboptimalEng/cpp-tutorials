@@ -8,11 +8,12 @@ void print(int number, int result, int expected) {
 }
 
 // count the number of `1` bits
+// 1101 & 1 -> 1
+// 12 -> 1100 -> 2
 int count_one_bits(int num) {
   int count = 0;
   while (true) {
     if (num == 0) {
-      // 0
       break;
     }
     // 1101 & 1 -> 1
