@@ -10,7 +10,7 @@ void print(int number, int result, int expected) {
 // count the number of `1` bits
 // 1101 & 1 -> 1
 // 12 -> 1100 -> 2
-int count_one_bits(int num) {
+int counting_bits(int num) {
   int count = 0;
   while (true) {
     if (num == 0) {
@@ -29,7 +29,7 @@ int count_one_bits(int num) {
 }
 
 // thumbnail code...
-int counting_bits(int num) {
+int counting_bits_2(int num) {
   int count = 0;
   while (num) {
     if (num & 1)
@@ -52,8 +52,8 @@ int main() {
   vector<int> expected_result{0, 1, 1, 2, 1, 1, 3, 4};
 
   for (int i = 0; i < numbers.size(); i++) {
-    int result = count_one_bits(numbers[i]);
-    // result = counting_bits(numbers[i]);
+    int result = counting_bits(numbers[i]);
+    // result = counting_bits_2(numbers[i]);
     print(numbers[i], result, expected_result[i]);
   }
 
