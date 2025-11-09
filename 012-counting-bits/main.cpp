@@ -28,15 +28,14 @@ int count_one_bits(int num) {
 }
 
 // thumbnail code...
-// 8 -> 1000 -> 1
-// 13 -> 1101 -> 3
-int counting_bits(int n) {
-  int c = 0;
-  while (n) {
-    (n & 1) == 1 ? c++ : 0;
-    n >>= 1;
+int counting_bits(int num) {
+  int count = 0;
+  while (num) {
+    if (num & 1)
+      count++;
+    num = num >> 1;
   }
-  return c;
+  return count;
 }
 
 int main() {
@@ -53,6 +52,7 @@ int main() {
 
   for (int i = 0; i < numbers.size(); i++) {
     int result = count_one_bits(numbers[i]);
+    // result = counting_bits(numbers[i]);
     print(numbers[i], result, expected_result[i]);
   }
 
