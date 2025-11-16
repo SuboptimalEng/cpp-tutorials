@@ -1,4 +1,4 @@
-# UB - Uninitialized Local Variable
+# Counting Bits with Bit Manipulation
 
 ## TL;DR
 
