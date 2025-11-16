@@ -27,7 +27,7 @@ int counting_bits_fn(int num) {
   return count;
 }
 
-// count the number of `1` bits
+// count the number of 1 bits
 // 12 -> 1100 -> 2
 int counting_bits(int num) {
   int count = 0;
