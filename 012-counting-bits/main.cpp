@@ -27,7 +27,8 @@ int counting_bits(int num) {
   return count;
 }
 
-// thumbnail code...
+// count the number of `1` bits
+// 12 -> 1100 -> 2
 int counting_bits_2(int num) {
   int count = 0;
   while (num) {
