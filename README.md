@@ -1,6 +1,13 @@
 # ⚙️ C++ Tutorials
 
-This repo contains the code for my C++ tutorials on YouTube. Since C++ is a huge
+This repo contains the code for my C++ tutorials on YouTube.
+
+These tutorials are not meant to be consumed in any specific order (even
+though each folder will be numbered). This ordering represents "the moment
+in time when I found that specific topic interesting". It does NOT represent
+"the order in which you should learn that topic".
+
+<!-- This repo contains the code for my C++ tutorials on YouTube. Since C++ is a huge
 language, I plan to use [LearnCPP.com](https://www.learncpp.com/) and Bjarne
 Stoustrup's [4th edition exercises PDF](https://www.stroustrup.com/4thExercises.pdf)
 as a rough guide for my study plan (and videos). But, I don't plan to follow
@@ -10,7 +17,7 @@ find interesting.
 As such, these C++ tutorials are not meant to be consumed in any specific order
 (even though each folder will be numbered). This ordering represents "the moment
 in time when I found that specific topic interesting". It does NOT represent
-"the order in which you should learn that topic".
+"the order in which you should learn that topic". -->
 
 <!-- For example, the first folder, titled `01-gdb-lldb-debugging` is likely a
 topic at the intermediate level, but I learned it first (and made a video)
