@@ -53,7 +53,8 @@ int main() {
 
   for (int i = 0; i < numbers.size(); i++) {
     int result = counting_bits_fn(numbers[i]);
-    result = counting_bits(numbers[i]);
+    // Note: Test code for screencap.
+    // result = counting_bits(numbers[i]);
     print(numbers[i], result, expected_result[i]);
   }
 
