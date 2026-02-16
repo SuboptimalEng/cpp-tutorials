@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Custom C++ Build Task",
+      "type": "shell",
+      "command": "clang++",
+      "args": [
+        "-g",
+        "${file}",
+        "-o",
+        "${workspaceFolder}/${fileBasenameNoExtension}"
+      ],
+      "group": "build"
+    }
+    // {
+    //   "label": "Custom C++ Clean Task",
+    //   "type": "shell",
+    //   "command": "rm",
+    //   "args": [
+    //     "-rf",
+    //     "${workspaceFolder}/main",
+    //     "${workspaceFolder}/main.dSYM"
+    //   ],
+    //   "presentation": { "reveal": "silent" }
+    // }
+  ]
+}

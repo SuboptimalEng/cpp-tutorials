@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Custom C++ Build Task",
+      "type": "shell",
+      "command": "clang++",
+      "args": [
+        "-g",
+        "${file}",
+        "-o",
+        "${workspaceFolder}/${fileBasenameNoExtension}"
+      ],
+      "group": "build"
+    }
+  ]
+}

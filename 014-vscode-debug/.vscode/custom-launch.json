@@ -1,0 +1,32 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Build, Run, and Debug C++",
+      // vscode microsoft extension
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}",
+      // stop debugger at main
+      "stopAtEntry": true,
+      "cwd": "${fileDirname}",
+      "externalConsole": false,
+      "MIMode": "lldb",
+      // custom task to run before launching debugger
+      // ensures we have the `main` executable
+      "preLaunchTask": "Custom C++ Build Task"
+    }
+    // {
+    //   "name": "Run and Debug C++",
+    //   "type": "cppdbg",
+    //   "request": "launch",
+    //   "program": "${workspaceFolder}/${fileBasenameNoExtension}",
+    //   "stopAtEntry": true,
+    //   "cwd": "${fileDirname}",
+    //   "MIMode": "lldb"
+    // }
+  ]
+}
