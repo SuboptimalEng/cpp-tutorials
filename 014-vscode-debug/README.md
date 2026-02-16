@@ -22,14 +22,14 @@
 
 ## Timestamps
 
-00:00 VS Code Debugger Overview
-00:42 Microsoft C++ Extension
-01:23 Configure Build Task
-03:09 Test C++ Build Task
-03:55 Launch Debugger Setup
-06:14 Running VS Code Debugger
-08:09 Breakpoint Editor UI
-09:16 VS Code Debugger Tutorial
+- 00:00 VS Code Debugger Overview
+- 00:42 Microsoft C++ Extension
+- 01:23 Configure Build Task
+- 03:09 Test C++ Build Task
+- 03:55 Launch Debugger Setup
+- 06:14 Running VS Code Debugger
+- 08:09 Breakpoint Editor UI
+- 09:16 VS Code Debugger Tutorial
 
 ## References
 
