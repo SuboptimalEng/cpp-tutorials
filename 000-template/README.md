@@ -1,30 +1,39 @@
-# UB - Uninitialized Local Variable
+# --- TITLE ---
 
 ## TL;DR
 
-- In the C++ on Sea keynote, Herb Sutter showed some code with undefined behavior in C++
-- Turns out that C++ can have UB when reading a local variable that is uninitalized
-- I was confused by this and decided to investigate further by looking into the assembly code
-- The point of this investigation is to learn what's happening under the hood in the compiler
-- (Note that this issue will be fixed by default in C++ 26 which is great!)
+- How to set up and run the C++ debugger in VS Code
 
 ## Video Overview
 
-- Start by recreating the C++ code from Herb's slide
-- Go over the C++ code and explain what we expect to happen vs what actually happens
-- Run the code to ensure the undefined behavior (as expected :P)
-- Turn on `ftrivial-auto-var-init=zero` flag and confirm that UB is NOT there anymore
-  - This flag basically ensures that
-  - These flags are default to true in C++ 26
-  - So we can expect them to be gone with no code changes in the future
-- Investigate the assembly for UB code
-- Investigate the assembly diff for non-UB code
+- [x] Download C++ extension on VS Code
+- [x] Create `tasks.json` for building cpp app
+- [x] Create `launch.json` for launching debugger
+- [x] Go to debugger tab (`cmd + shift + d`) and press run
+- [x] Ensure that it pauses in main
+- [x] Add break points in debugger UI and press play
+- [x] Show breakpoints, variables, watchlist
+- [x] Show debug terminal (for possible errors)
 
 ## Helpful LLDB Commands
 
 ## Sample Assembly Code
 
 ## Titles
+
+- Intro to Debugging C++ in VS Code
+- How to Debug C++ in VS Code
+
+## Timestamps
+
+- 00:00 VS Code Debugger Overview
+- 00:42 Microsoft C++ Extension
+- 01:23 Configure Build Task
+- 03:09 Test C++ Build Task
+- 03:55 Launch Debugger Setup
+- 06:14 Running VS Code Debugger
+- 08:09 Breakpoint Editor UI
+- 09:16 VS Code Debugger Tutorial
 
 ## References
 
