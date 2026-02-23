@@ -1,6 +1,12 @@
 #include <stdlib.h>
 #include <iostream>
 
+int sum(int& a, int* b);
+
+int sum(int& a, int* b) {
+  return a + *b;
+}
+
 void PrintText(std::string s) {
   std::cout << "--- " << s << " ---" << std::endl;
 }
@@ -30,12 +36,6 @@ int DoubleVarsAndAdd_v2(int a, int b, int& c) {
   b = b * 2;
   c = c * 2;
   return a + b + c;
-}
-
-int sum(int& a, int* b);
-
-int sum(int& a, int* b) {
-  return a + *b;
 }
 
 int DoubleVarsAndAdd_v3(int a, int b, int* c) {
