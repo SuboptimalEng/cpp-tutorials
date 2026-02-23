@@ -1,10 +1,6 @@
 #include <stdlib.h>
 #include <iostream>
 
-// void printSeparator() {
-//   std::cout << "===" << std::endl;
-// }
-
 void PrintText(std::string s) {
   std::cout << "--- " << s << " ---" << std::endl;
 }
