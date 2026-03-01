@@ -72,6 +72,9 @@ Please give these a read if you want to learn more:
 - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
   - [Discussion on Reddit](https://www.reddit.com/r/rust/comments/1cdqdsi/lessons_learned_after_3_years_of_fulltime_rust/)
   - [Discussion on HackerNews](https://news.ycombinator.com/item?id=40172033)
+- Rust job market
+  - [Is Rust a career dead-end? As opposed to C++?](https://www.reddit.com/r/rust/comments/1f5mt1f/is_rust_a_career_deadend_as_opposed_to_c_or_any/)
+  - [How junior friendly is the Rust job market?](https://www.reddit.com/r/rust/comments/1r7bov1/how_junior_friendly_really_rust_job_market_is/)
 
 <!-- The long answer, is that I strongly believe C/C++ is the best language for
 graphics programming (and many other subfields of computer science that I find
