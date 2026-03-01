@@ -73,7 +73,7 @@ Please give these a read if you want to learn more:
   - [Discussion on Reddit](https://www.reddit.com/r/rust/comments/1cdqdsi/lessons_learned_after_3_years_of_fulltime_rust/)
   - [Discussion on HackerNews](https://news.ycombinator.com/item?id=40172033)
 - Rust job market
-  - I noticed (on average) 10-20 c++ jobs per 1 rust job.
+  - Based on job boards, I noticed there are 10-20 C++ jobs per 1 Rust job (based on location).
   - All Rust jobs require C++ knowledge, not strictly true vice-versa.
   - [Is Rust a career dead-end? As opposed to C++?](https://www.reddit.com/r/rust/comments/1f5mt1f/is_rust_a_career_deadend_as_opposed_to_c_or_any/)
   - [How junior friendly is the Rust job market?](https://www.reddit.com/r/rust/comments/1r7bov1/how_junior_friendly_really_rust_job_market_is/)
