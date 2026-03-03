@@ -61,8 +61,9 @@ x/5xd (0x100000f3d+0x4c+7)
 ### Bash
 
 ```bash
-# -s is for
+
 objdump -s -d main
+
 ```
 
 ## Titles
