@@ -68,10 +68,12 @@ objdump -s -d main
 
 ## Titles
 
-- Why Your C++ Array is "Hidden" in Assembly
+- Why is the C++ Array "Hidden" in Assembly?
+- C++ Assembly Deep Dive: Chasing Where the Data Lives
+- Low Level C++: How the Compiler Stores Array Data
+
 - C++ Array Initialization vs. Integer Initialization in Assembly
 - Where are Global Variables and Constants Stored in C++?
-- Low-Level C++: How the Compiler Packs Your Arrays
 - How are Global Constants Stored in C++ Binaries?
 - How to use objdump -d -s to Debug C++ Binaries?
 
