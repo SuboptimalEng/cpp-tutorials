@@ -6,14 +6,17 @@
 
 ## Video Overview
 
-- [x] Download C++ extension on VS Code
-- [x] Create `tasks.json` for building cpp app
-- [x] Create `launch.json` for launching debugger
-- [x] Go to debugger tab (`cmd + shift + d`) and press run
-- [x] Ensure that it pauses in main
-- [x] Add break points in debugger UI and press play
-- [x] Show breakpoints, variables, watchlist
-- [x] Show debug terminal (for possible errors)
+- Go over C++ code
+- Debugging basics
+  - `clang++ -g main.cpp -o main`
+  - `si` - step into instruction
+  - `p $edi` - print value in edi
+  - `x/2d $rbp-0x8` - examine 2 ints in rbp
+- Reading assembly
+  - `0x100000f60 <+0>...`
+  - `movl   %edi, -0x8(%rbp)`
+  - `addl   -0x8(%rbp), %eax`
+  - `callq  0x100000ed0`
 
 ## Helpful LLDB Commands
 
@@ -26,17 +29,9 @@
 
 ## Timestamps
 
-- 00:00 VS Code Debugger Overview
-- 00:42 Microsoft C++ Extension
-- 01:23 Configure Build Task
-- 03:09 Test C++ Build Task
-- 03:55 Launch Debugger Setup
-- 06:14 Running VS Code Debugger
-- 08:09 Breakpoint Editor UI
-- 09:16 VS Code Debugger Tutorial
+- 00:00 Todo
 
 ## References
 
-- Herb Sutter's Keynote at C++ on Sea - https://www.youtube.com/watch?v=kKbT0Vg3ISw
 - Herb Sutter's Website - https://herbsutter.com/
 - ChatGPT and Gemini
