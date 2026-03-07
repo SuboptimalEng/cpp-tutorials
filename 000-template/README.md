@@ -1,5 +1,3 @@
-# --- TITLE ---
-
 ## TL;DR
 
 - How to set up and run the C++ debugger in VS Code
@@ -26,6 +24,10 @@
 
 - Intro to Debugging C++ in VS Code
 - How to Debug C++ in VS Code
+
+## Description
+
+In this C++ tutorial, we go over...
 
 ## Timestamps
 

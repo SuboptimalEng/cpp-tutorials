@@ -33,8 +33,6 @@ si # Step into instruction
 
 p $edi # print value in edi
 x/2d $rbp-0x8 # examine 2 ints in rbp
-
-
 ```
 
 ## Titles
@@ -43,6 +41,10 @@ x/2d $rbp-0x8 # examine 2 ints in rbp
 - How to Read C++ Assembly Code
 - Step-by-Step x86-64 Assembly Guide
 - C++ to Assembly Tutorial for Beginners
+
+## Description
+
+In this C++ tutorial, we go over...
 
 ## Timestamps
 
