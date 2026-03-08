@@ -8,13 +8,8 @@
 - Debugging basics
   - `clang++ -g main.cpp -o main`
   - `si` - step into instruction
-  - `p $edi` - print value in edi
-  - `x/2d $rbp-0x8` - examine 2 ints in rbp
 - Reading assembly
-  - `0x100000f60 <+0>...`
   - `movl   %edi, -0x8(%rbp)`
-  - `addl   -0x8(%rbp), %eax`
-  - `callq  0x100000ed0`
 
 ## Helpful LLDB Commands
 
