@@ -38,6 +38,9 @@ x/2d $rbp-0x8 # examine 2 ints in rbp
 ## Titles
 
 - How to Read Assembly Code | C++ Tutorial for Beginners
+- x86 Assembly Language Tutorial for C++ Programmers
+
+- How to Read Assembly Code Like English | C++ Tutorial
 - How to Read C++ Assembly Code for Beginners
 - Intro to Assembly Code | C++ LLDB Tutorial
 - C++ Reverse Engineering: Understanding Clang Assembly in LLDB
