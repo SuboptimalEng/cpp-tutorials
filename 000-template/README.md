@@ -1,6 +1,6 @@
 ## TL;DR
 
-- How to set up and run the C++ debugger in VS Code
+- Understanding the basics of assembly code
 
 ## Video Overview
 
