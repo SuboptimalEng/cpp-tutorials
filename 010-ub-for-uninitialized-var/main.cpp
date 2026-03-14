@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
+// void dont_do_this() {
+//   // undefined behavior!
+//   char a[7];
+//   std::cout << a;
+// }
+
 void f1() {
   char a[7] = {'s', 'e', 'c', 'r', 'e', 't', '\0'};
 }

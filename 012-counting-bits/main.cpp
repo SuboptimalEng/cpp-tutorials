@@ -7,6 +7,9 @@ void print(int number, int result, int expected) {
        << result << ", expected -> " << expected << endl;
 }
 
+// // 9 -> 1001 -> 2
+// int counting_bits(int num);
+
 // count the number of `1` bits
 // 12 -> 1100 -> 2
 int counting_bits_fn(int num) {
