@@ -1,6 +1,6 @@
 #include "InlineClass.hpp"
 
-// // Why is this slow?
+// // why is this slow?
 // #include "MyHeader.h"
 
 int main() {
