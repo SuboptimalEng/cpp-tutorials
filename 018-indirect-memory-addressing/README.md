@@ -51,11 +51,10 @@ main`main:
 
 ## Titles
 
-- x86 Indirect Memory Addressing | C++ Tutorial for Beginners
-- x86 Indirect Memory Addressing Explained for C++ Developers
+- How to Read x86 Assembly Memory Offsets? | C++ Tutorial for Beginners
+- C++ Memory Offsets Explained | C++ Assembly Tutorial
+- What is Indirect Memory Addressing? | C++ Assembly Tutorial
 - Assembly Tutorial: What Does -0x8(%rbp) Mean?
-- Understanding RBP vs RSP: How Function Memory Works
-- How to Debug C++ Assembly with LLDB: RBP and Stack Frames
 
 ## Description
 

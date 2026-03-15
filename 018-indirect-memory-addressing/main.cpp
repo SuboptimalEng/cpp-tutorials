@@ -1,5 +1,9 @@
 #include <iostream>
 
+// wtf does this do?
+// assembly explained!
+// indirect memory addressing
+
 int sum_4(int a, int b, int c, int d) {
   return a + b + c + d;
 }
