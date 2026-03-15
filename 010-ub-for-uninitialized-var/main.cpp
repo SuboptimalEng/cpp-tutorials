@@ -2,7 +2,8 @@
 using namespace std;
 
 // void dont_do_this() {
-//   // undefined behavior!
+//   // undefined code
+//   // it's undefined
 //   char a[7];
 //   std::cout << a;
 // }
