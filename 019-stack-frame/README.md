@@ -28,11 +28,13 @@
 
 ## Titles
 
-- Todo
+- How the C++ Stack Frame Works | x86 Assembly Explained
+- C++ Internals: How %rbp and %rsp Manage the Function Stack Frame
 
-## Description
-
-In this C++ tutorial, we go over...
+- C++ Stack Frames Explained (rbp vs rsp in x86 assembly)
+- What Are rbp and rsp? Understanding the C++ Function Stack
+- The Anatomy of a C++ Function Call (%rbp & %rsp)
+- Stop Guessing: How the C++ Stack Actually Works
 
 ## References
 
