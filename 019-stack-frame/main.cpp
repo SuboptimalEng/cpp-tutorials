@@ -7,6 +7,7 @@ int my_sum() {
   return a + b + c + d + e;
 }
 
+// stack frame
 int main() {
   int a = 1;
   int b = 2;
