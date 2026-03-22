@@ -35,7 +35,7 @@
 ## Titles
 
 - x86 Assembly Red Zone Explained | C++ Tutorial
-- The "Hidden" 128 Bytes: x86 Assembly Red Zone Explained | C++ Tutorial
+- The "Hidden" 128 Bytes: x86 Assembly Red Zone Explained
 - How Compilers Optimize the Stack: The x86 Red Zone | C++ Tutorial
 - What is the x86 Assembly Red Zone? Leaf Function Optimization | C++ Tutorial
 
