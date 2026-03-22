@@ -35,11 +35,9 @@
 ## Titles
 
 - x86 Assembly Red Zone Explained | C++ Tutorial
-- x86 Assembly Stack Frame Red Zone Explained | C++ Tutorial
-- x86-64 Red Zone Explained: Hidden Stack Memory | C++ Tutorial
-- What is the x86 Assembly Red Zone? Leaf Function Optimization | C++ Tutorial
-- x86 Assembly Red Zone vs. Stack Frames: What's the Difference? | C++ Tutorial
+- The "Hidden" 128 Bytes: x86 Assembly Red Zone Explained | C++ Tutorial
 - How Compilers Optimize the Stack: The x86 Red Zone | C++ Tutorial
+- What is the x86 Assembly Red Zone? Leaf Function Optimization | C++ Tutorial
 
 ## References
 
