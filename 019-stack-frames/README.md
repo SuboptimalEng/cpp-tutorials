@@ -28,6 +28,9 @@
 
 ## Titles
 
+- What is the C++ Stack Frame and how does it work?
+- C++ Deep Dive: Function Stack Frames
+- What is a Stack Frame in C++?
 - x86 Assembly Stack Frames Explained | C++ Tutorial
 - How the C++ Stack Frame Works | x86 Assembly Explained
 - C++ Internals: How %rbp and %rsp Manage the Function Stack Frame

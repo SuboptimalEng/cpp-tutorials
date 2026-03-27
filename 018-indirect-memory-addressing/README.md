@@ -51,6 +51,13 @@ main`main:
 
 ## Titles
 
+- How does C++ store variable data on the stack frame?
+- C++ Deep Dive: Indirect Memory Addressing Explained
+- C++ Assembly Deep Dive: Indirect Memory Addressing
+- C++ Deep Dive: Indirect Memory Addressing from Stack Base Pointer
+- C++ Deep Dive: Memory Offsets from Base Pointer
+- C++ Deep Dive: Indirect Memory Addressing
+- C++ Memory Offsets Explained for Beginners
 - How to Read x86 Assembly Memory Offsets? | C++ Tutorial for Beginners
 - C++ Memory Offsets Explained | C++ Assembly Tutorial
 - What is Indirect Memory Addressing? | C++ Assembly Tutorial
