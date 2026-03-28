@@ -28,6 +28,7 @@
 
 ## Titles
 
+- How does the Stack Frame work in C++?
 - What is the C++ Stack Frame and how does it work?
 - C++ Deep Dive: Function Stack Frames
 - What is a Stack Frame in C++?
