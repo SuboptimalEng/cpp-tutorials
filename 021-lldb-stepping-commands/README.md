@@ -18,12 +18,9 @@ si # step into fn/instruction
 
 ## Titles
 
-- LLDB stepping explained: step next si ni source vs assembly
-- Master LLDB stepping: source level vs instruction level debugging
-- LLDB debugging basics: step vs next vs step instruction
-- Stop guessing: step through C++ and assembly in LLDB
-- LLDB stepping commands made simple s n si ni
-- From C++ to assembly: stepping through code in LLDB
+- How to debug C++ and Assembly in LLDB (step by step)
+- How to Debug C++ Like a Pro: LLDB Stepping Commands
+- LLDB Stepping Commands Explained | C++ Tutorial
 - LLDB crash course: controlling execution with step and next
 
 ## References
