@@ -28,17 +28,16 @@
 
 ## Titles
 
+- C++ Internals: How %rbp and %rsp Manage the Function Stack Frame
+- C++ Stack Frame Setup and Teardown Explained
+- How do stack frames work in C++?
 - How does the Stack Frame work in C++?
+
+- How is the stack frame initialized for fn calls in C++?
 - What is the C++ Stack Frame and how does it work?
 - C++ Deep Dive: Function Stack Frames
 - What is a Stack Frame in C++?
-- x86 Assembly Stack Frames Explained | C++ Tutorial
-- How the C++ Stack Frame Works | x86 Assembly Explained
-- C++ Internals: How %rbp and %rsp Manage the Function Stack Frame
 - C++ Stack Frames Explained (rbp vs rsp in x86 assembly)
-- What Are rbp and rsp? Understanding the C++ Function Stack
-- The Anatomy of a C++ Function Call (%rbp & %rsp)
-- Stop Guessing: How the C++ Stack Actually Works
 
 ## References
 
