@@ -10,7 +10,11 @@
 
 ## Titles
 
-- How does C++ know what line of code to execute?
+- How does your CPU know what line of C++ to execute next?
+- Understanding The Program Counter (Instruction Pointer) | C++ Tutorial
+- This Register Controls Everything Your C++ Code Does
+- How the RIP Register Works in C++ and x64 Assembly
+- How the CPU Tracks Code Execution: The Role of RIP
 
 ## References
 
