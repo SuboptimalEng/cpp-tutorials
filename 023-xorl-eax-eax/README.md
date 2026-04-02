@@ -13,8 +13,11 @@
 
 ## Titles
 
-- Why C++ compilers use xor eax, eax instead of mov eax, 0
+- Why do C++ compilers use XOR instead of MOV to clear a register?
+- Why is This Strange Instruction Everywhere in C++?
+
 - Why do C++ compilers use xor instead of mov to return zero?
+- Why C++ compilers use xor eax, eax instead of mov eax, 0
 - Why xor eax, eax is everywhere in compiled code
 - Why does C++ assembly prefer xor over mov for zeroing?
 - Why do compilers generate xor eax, eax in C++?
