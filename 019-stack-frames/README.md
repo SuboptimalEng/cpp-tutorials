@@ -28,6 +28,7 @@
 
 ## Titles
 
+- How do C++ stack frames work anyway?
 - C++ Internals: How %rbp and %rsp Manage the Function Stack Frame
 - C++ Stack Frame Setup and Teardown Explained
 - How do stack frames work in C++?
