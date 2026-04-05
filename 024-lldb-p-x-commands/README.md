@@ -21,13 +21,12 @@
 
 ## Titles
 
-- The Only 2 LLDB Commands You Need: p vs x | C++ Tutorial
-- LLDB p vs x Explained (C++ Debugging Guide)
-- LLDB Commands You Actually Need: p vs x
-- How to Use p and x in LLDB (Beginner to Advanced)
-- LLDB Memory vs Values: p vs x Tutorial
-- LLDB Debugging Basics: Print vs Examine Memory
-- C++ Debugging in LLDB: p, x, and Formatting
+- What’s the 80/20 Rule for Debugging C++ in LLDB?
+- Debug C++ 80% Faster with These 2 LLDB Tricks
+- The 80/20 Rule for Debugging C++ in LLDB
+
+- The Only 2 LLDB Commands You Need To Debug C++: Print (p) vs Examine (x)
+- C++ LLDB Debugging Basics: Print vs Examine Memory
 
 ## References
 
