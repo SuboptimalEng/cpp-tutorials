@@ -21,10 +21,14 @@
 
 ## Titles
 
+- The Only 2 LLDB Commands You Need To Debug C++: Print vs Examine
+- The Only 2 Commands You Need To Debug C++: Print vs Examine
 - What’s the 80/20 Rule for Debugging C++ in LLDB?
-- Debug C++ 80% Faster with These 2 LLDB Tricks
-- The 80/20 Rule for Debugging C++ in LLDB
 
+- The 80/20 Rule to Debug C++ in LLDB
+- The 80/20 Rule for Debugging C++ in LLDB
+- Debug C++ 80% Faster with These 2 LLDB Commands
+- The Only 2 Commands You Need To Debug C++: Print (p) vs Examine (x)
 - The Only 2 LLDB Commands You Need To Debug C++: Print (p) vs Examine (x)
 - C++ LLDB Debugging Basics: Print vs Examine Memory
 
