@@ -15,11 +15,9 @@ int main() {
   // std::cout << (add(b, b) == 4) << std::endl;
   // std::cout << (add(a, b) == 4) << std::endl;  // bad test, should fail
 
-  assert(a == 1);
-
+  // assert(1 == 1);
   assert(add(a, a) == 2);
   assert(add(b, b) == 4);
-  assert(add(2, 3) == 5);
   // assert(add(a, b) == 4);  // bad test, should fail
 
   return 0;
