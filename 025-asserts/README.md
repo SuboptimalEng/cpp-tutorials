@@ -20,11 +20,12 @@
 
 ## Titles
 
+- This C++ Code Change Makes You a Senior Engineer
 - How do you show "signal" in C++ coding interviews?
 - C++ assert vs cout: Which Should You Use for Interviews?
 
-- This C++ Code Change Makes You Look Like a Senior Engineer
 - The Best Way to Add "Tests" for C++ Code in Interviews
+- How to level up from Junior to Senior in C++ interviews?
 
 ## References
 

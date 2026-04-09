@@ -15,10 +15,14 @@ int main() {
   // std::cout << (add(b, b) == 4) << std::endl;
   // std::cout << (add(a, b) == 4) << std::endl;  // bad test, should fail
 
-  // assert(1 == 1);
   assert(add(a, a) == 2);
   assert(add(b, b) == 4);
   // assert(add(a, b) == 4);  // bad test, should fail
+
+  // thumbnails...
+  // int dominance = 1;
+  // assert(dominance);
+  // assert(1 == 1);
 
   return 0;
 }
