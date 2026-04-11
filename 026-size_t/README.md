@@ -11,13 +11,13 @@
 
 ## Titles
 
-- Todo: add these
-- This C++ Code Change Makes You a Senior Engineer
-- How do you show "signal" in C++ coding interviews?
-- C++ assert vs cout: Which Should You Use for Interviews?
+- Stop Using int for C++ Loops: The size_t Rule
+- Why do Senior C++ Engineers use size_t over int?
+- int vs size_t: The Bug You Didn’t Notice
 
-- The Best Way to Add "Tests" for C++ Code in Interviews
-- How to level up from Junior to Senior in C++ interviews?
+- How size_t Actually Works: A Systems Programmer’s Guide
+- Why do Senior C++ Engineers always pick size_t over int?
+- Why does size_t exist in C++ and when does it break?
 
 ## References
 
