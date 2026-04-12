@@ -11,8 +11,8 @@
 
 ## Titles
 
-- Why do Senior C++ Engineers use size_t over int?
 - Stop Using int for C++ Loops: The size_t Rule
+- Why do Senior C++ Engineers use size_t over int?
 - int vs size_t: The Bug You Didn’t Notice
 
 - How size_t Actually Works: A Systems Programmer’s Guide
