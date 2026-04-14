@@ -7,7 +7,7 @@ bool isSortedV1(const std::vector<int>& v) {
   // std::cout << "size -> " << v.size() << std::endl;
   // std::cout << "size minus one -> " << v.size() - 1 << std::endl;
   // std::cout << std::endl;
-  for (size_t i = 0; i < v.size() - 1; i++) {
+  for (size_t i = 0; i < vec.size() - 1; i++) {
     if (v[i + 1] < v[i]) {
       return false;
     }

@@ -1,9 +1,13 @@
 ## Video Overview
 
-- Go over why `i < vec.size() - 1` in for-loop is undefined behavior
-- Go over 2 ways to prevent this undefined behavior
-  - `i + 1 < vec.size()`
-  - start with `size_t i = 1` and use `i < vec.size()`
+- What's wrong with using `int`?
+  - How large is `size_t` compared to `int`?
+  - `Vec.size()` returns `size_t`
+  - `size_t` is system dependant (`unsigned long`)
+- How to correctly use `size_t`?
+- What can go wrong with `size_t`?
+- How to fix `size_t` issue?
+- What does this look like in practice on `vector`?
 
 ## Titles
 
