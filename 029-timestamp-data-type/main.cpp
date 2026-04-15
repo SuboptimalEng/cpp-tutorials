@@ -1,13 +1,12 @@
 #include <iostream>
 
-struct FileSystem {
+struct File {
   std::string name;
 
   // int timestamp;
   // int32_t timestamp;
-
   // uint64_t timestamp;
-  // int64_t timestamp;
+  int64_t timestamp;
 };
 
 int main() {
