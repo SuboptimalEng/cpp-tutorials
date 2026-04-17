@@ -7,15 +7,14 @@
 
 ## Titles
 
-- The One C++ "Junior Mistake" Seniors Still Make
-- This C++ Loop Looks Correct… But It’s Broken
-- Most C++ Developers Get This Loop Wrong
-- How 0 - 1 Became 18 Quintillion: The C++ Underflow Trap
-- Stop Writing v.size() - 1 in C++ Loops
+- Stop Writing vec.size() - 1 in C++ Loops
+- This C++ Code Looks Correct… But It’s Broken
 
-- Why is vec.size() - 1 Undefined Behavior in C++?
+- This C++ Code Works... Until the Vector is Empty
 - The Hidden Danger of v.size() in C++
-- Your Code Works... Until the Vector is Empty
+- In C++, 0 - 1 is 18 Quintillion
+- Most C++ Developers Get This Loop Wrong
+- Why is vec.size() - 1 Undefined Behavior in C++?
 
 ## References
 
