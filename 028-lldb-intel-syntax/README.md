@@ -14,6 +14,10 @@
   - Registers: `eax` (no percent symbol)
   - Memory addressing: `dword ptr [rbp - 0x8], 0x0`
 
+```cpp
+-0x8(%rbp) vs [rbp - 0x8]
+```
+
 ## Titles
 
 - How to make LLDB show Intel syntax instead of AT&T for Assembly?
