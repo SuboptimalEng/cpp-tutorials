@@ -25,11 +25,11 @@
 ## Titles
 
 - The First Thing You Should Change in LLDB
+- The First Thing You Should Change in LLDB (C++ Intel Syntax)
 - The First Thing You Should Change in LLDB (AT&T vs Intel Syntax)
-- Stop Using the Default LLDB Syntax
+- Why Your C++ Assembly Looks Weird (and How to Fix It)
+- Why your C++ assembly looks weird and how to fix it?
 - Stop Using the Default LLDB Syntax (AT&T vs Intel)
-- Why Your Assembly Looks Weird (and How to Fix It)
-- How to make LLDB show Intel syntax instead of AT&T and why?
 - AT&T vs Intel Syntax: Which Assembly Flavor Do You Prefer?
 
 ## References
