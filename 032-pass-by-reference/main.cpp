@@ -3,7 +3,6 @@
 
 // ===
 // avoid large copying of data
-// ===
 
 // bad - pass by value
 void print_v1(std::vector<int> v) {}
@@ -16,16 +15,21 @@ void print_v3(const std::vector<int>& v) {}
 
 // ===
 // when you want to update the array
-// ===
 
-// incorrect - will create copy, not change original vector
+// incorrect - will make copy, original vector unchanged
 void add_one_v1(std::vector<int> v) {}
 
-// incorrect - compiler error when trying to mutate vector
+// incorrect - compiler error when updating vector
 void add_one_v2(const std::vector<int>& v) {}
 
 // correct - pass by reference to mutate array
 void add_one_v3(std::vector<int>& v) {}
+
+// ===
+// real world example
+
+// recursive dfs with visited grid needs mutation
+void dfs(std::vector<std::vector<int>>& visited, int row, int col);
 
 // ===
 
