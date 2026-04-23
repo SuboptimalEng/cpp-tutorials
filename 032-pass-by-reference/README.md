@@ -3,8 +3,9 @@
 - Simple example of pass by value
 - What is pass by reference
 - Why use it?
-  - Change original value
   - Avoid copying large data
+  - Change original value
+    - Prevent with `const`
 
 ## Titles
 
