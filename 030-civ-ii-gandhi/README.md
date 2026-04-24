@@ -17,7 +17,14 @@
 
 ## Titles
 
-- Why does Gandhi go nuclear in Civ 2 | C++ Urban Legend
+- Why 1 - 2 = 255 | The C++ "Nuclear Gandhi" Legend
+- Why Does Gandhi Nuke You in Civ | C++ Urban Legend
+- Why Does Gandhi Nuke You in Civ | C++ Urban Legend Explained
+- Why Does Gandhi Nuke You in Civ?
+
+- The C++ Logic That Made Gandhi Nuke You Unprompted
+- The C++ Logic That Made Gandhi Evil | C++ Urban Legend Explained
+- How C++ Created the Nuclear Gandhi Urban Legend
 
 ## References
 
