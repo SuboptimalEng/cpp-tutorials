@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 
+using namespace std;
+
 // ===============================================
 // avoid large copying of data
 // bad - pass by value
@@ -10,6 +12,12 @@
 void print_v1(std::vector<int> v);
 void print_v2(std::vector<int>& v);
 void print_v3(const std::vector<int>& v);
+
+// void print1(vector<int> v);
+// void print2(vector<int>& v);
+// void print3(const vector<int>& v);
+// 🐢 vector<int> v
+// 🔥 vector<int>& v
 
 // ===============================================
 // when you want to update the array
