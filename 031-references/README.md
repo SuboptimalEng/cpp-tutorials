@@ -11,15 +11,15 @@
 
 ## Titles
 
+- C++ References in 7 Minutes: Everything You Need to Know
+- What C++ References Actually Turn Into in Assembly
+- C++ References Explained
 - I Traced a C++ Reference Into x86 Assembly
-- C++ References: What’s Happening at the CPU Level?
-- What C++ References Actually Turn Into (x86-64 Assembly)
-- I Traced a C++ Reference Into x86 Assembly (LLDB Breakdown)
-- How C++ References Actually Work in Memory (x86 + LLDB)
 - Senior C++: How References Actually Work in Memory
-
-- What a C++ Reference Actually Looks Like in Assembly
 - How do C++ references actually work in x86 assembly?
+
+- Understanding C++ References
+- What C++ References Actually Turn Into (x86-64 Assembly)
 - C++ References Explored Through the Lens of x86 Assembly
 
 ## References
