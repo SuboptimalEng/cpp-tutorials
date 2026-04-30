@@ -3,6 +3,9 @@
 
 // using namespace std;
 // vector<bool> b{};
+// vector<bool> vs bool
+// std::vector<bool> 🅱️🅾️🅾️{};
+// std::vector<bool> b{};
 
 int main() {
   // bool a = true;
