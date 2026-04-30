@@ -1,9 +1,8 @@
 #include <iostream>
 #include <vector>
 
+// using namespace std;
 // vector<bool> b{};
-// std::vector<bool> 🅱️🅾️🅾️{};
-// std::vector<bool> b{};
 
 int main() {
   // bool a = true;

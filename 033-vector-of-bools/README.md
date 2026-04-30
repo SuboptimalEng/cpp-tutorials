@@ -31,10 +31,10 @@
 
 ## Titles
 
-- In C++, a vector of bools is a vector of bools... right?
-- In C++, a vector of bools is a vector of bools, right?
 - A vector of bools is a vector of bools... right? | C++ Deep Dive
-- A vector of bools is a vector of bools, right? | C++ Deep Dive
+- Wait, what exactly IS a vector of bools? | C++ Deep Dive
+- In C++, a vector of bools is a vector of bools... right?
+- Why vector<bool> doesn't act like other C++ containers
 
 ## References
 
