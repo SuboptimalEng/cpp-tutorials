@@ -2,11 +2,6 @@
 #include <vector>
 
 int main() {
-
-  int i = 1;
-  i++;  // post increment
-  ++i;  // pre increment
-
   // for (int i = 0; i < 5; i++) {}
   // for (int i = 0; i < 5; ++i) {}
   // return 0;
