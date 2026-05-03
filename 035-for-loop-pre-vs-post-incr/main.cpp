@@ -3,8 +3,6 @@
 
 int main() {
 
-  // 🐢 for (;; i++) {}
-  // 🔥 for (;; ++i) {}
   for (int i = 0; i < 1; i++) {}
   for (int i = 0; i < 1; ++i) {}
   // return 0;
@@ -33,3 +31,8 @@ int main() {
   }
   return 0;
 }
+
+// 🐢 for (;; i++) {}
+// 🔥 for (;; ++i) {}
+// ⛔ for (;; i++) {}
+// ✅ for (;; ++i) {}
