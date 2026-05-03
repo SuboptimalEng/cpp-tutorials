@@ -15,8 +15,14 @@
 
 ## Titles
 
-- Why you should use ++i in a for-loop?
-- What's the difference between ++i and i++ in C++?
+- Stop Using i++ in C++ Loops (Use ++i Instead)
+- Why Senior Engineers Use ++i (Instead of i++) in C++
+
+- The Hidden Cost of i++ in C++
+- Why ++i Matters (Even If Your Compiler Is Smart)
+- Why ++i is the Industry Standard for C++ Loops
+- C++ Best Practices: Why You Should Prefer ++i
+- i++ vs ++i: The Real Reason it Matters in Loops
 
 ## References
 
