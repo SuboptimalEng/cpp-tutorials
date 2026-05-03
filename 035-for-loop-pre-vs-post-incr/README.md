@@ -1,9 +1,10 @@
 ## Video Overview
 
-- Post-increment vs pre-increment
-  - Code + assembly
-- What happens when increment value is not used?
-  - Code + assembly
+- Intro to for-loops
+- Summary of pre/post increment
+  - What is it?
+  - How many lines of assembly generated?
+  - What happens when increment value is not used?
 - Is there a difference in for-loops?
   - Code + assembly
 - Why is pre-increment preferred for iterators?
@@ -14,6 +15,7 @@
 
 ## Titles
 
+- Why you should use ++i in a for-loop?
 - What's the difference between ++i and i++ in C++?
 
 ## References
