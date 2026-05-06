@@ -16,7 +16,7 @@
 ## Titles
 
 - Stop Using i++ in C++ Loops (Use ++i Instead)
-- Why Senior Engineers Use ++i (Instead of i++) in C++
+- Why Senior Engineers Use ++i Instead of i++ in C++
 
 - The Hidden Cost of i++ in C++
 - Why ++i Matters (Even If Your Compiler Is Smart)
