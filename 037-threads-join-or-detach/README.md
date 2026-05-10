@@ -15,6 +15,7 @@
 - Why C++ Threads are Designed to Crash by Default
 - C++ Threading: Join, Detach, or Die?
 
+- Why C++ Committee Designed Threads to Crash by Default
 - The "Silent Threading Bug" the C++ Committee Refused to Allow
 - It’s Actually a Good Thing C++ Threads Are "Broken"
 - Why do C++ threads need to be joined or detached?
