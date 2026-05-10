@@ -3,7 +3,12 @@
 - Intro to threads
   - Why do we need threads
   - How are they useful?
+- History of threads
+  - pthread, thread, jthread
 - How to create a thread?
+- Thread execution order
+- Passing in variables to thread
+- Detaching threads
 
 ## Titles
 
