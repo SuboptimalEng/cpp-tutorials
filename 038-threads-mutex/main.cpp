@@ -5,15 +5,17 @@
 
 using namespace std;
 
-std::mutex counter_mtx;
+std::mutex mtx;
 int counter = 0;
 
 void increment_counter() {
-  counter_mtx.lock();
+  mtx.lock();
   for (size_t i = 0; i < 1000000; i++) {
+    // mtx.lock();
     counter++;
+    // mtx.unlock();
   }
-  counter_mtx.unlock();
+  mtx.unlock();
 }
 
 int main() {

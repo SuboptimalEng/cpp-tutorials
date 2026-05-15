@@ -13,7 +13,13 @@
 
 ## Titles
 
-- What is a C++ Mutex and How Does it?
+- 10x Slower: The Cost of a Misplaced Mutex in C++
+- How One Line of C++ Can Tank Your Performance
+- Why Your C++ Mutex is 10x Slower Than It Should Be
+
+- Intro to Mutex | C++ Multithreading Tutorial
+- The C++ Mutex Mistake You Didn't Know You Were Making
+- The Performance Killer: Locking Inside vs. Outside the Loop
 
 ## References
 
