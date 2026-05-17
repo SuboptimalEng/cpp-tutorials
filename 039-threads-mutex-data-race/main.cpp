@@ -17,8 +17,10 @@ void increment() {
 
 int main() {
   // example 1 - multiple lines of assembly
-  // std::thread t1(increment);
-  // std::thread t2(increment);
+
+  std::thread t1(increment);
+  std::thread t2(increment);
+
   // t1.join();
   // t2.join();
   // cout << "counter: " << counter << endl;
