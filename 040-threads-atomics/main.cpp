@@ -15,7 +15,6 @@ void increment() {
     // mtx.lock();
     counter++;
     // counter.fetch_add(1);
-    // counter.fetch_add(1);
     // mtx.unlock();
   }
 }
