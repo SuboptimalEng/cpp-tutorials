@@ -23,7 +23,13 @@
 
 ## Titles
 
-- What is a C++ Mutex and How Does it?
+- Why "Atomic Lock-Free" C++ Code Still Locks Your CPU
+- Why a CPU Level Lock is 100x Faster Than an OS Mutex
+- Why a C++ Mutex Lock Costs Your CPU 5,000 Clock Cycles
+- C++ Mutex (OS) vs Atomics (CPU) Explained for Absolute Beginners
+
+- C++ Mutex vs Atomic Explained
+- What Actually Happens to a CPU During a std::atomic Operation
 
 ## References
 
