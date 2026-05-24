@@ -20,10 +20,10 @@ void increment() {
 
 int main() {
   std::thread t1(increment);
-  std::thread t2(increment);
+  // std::thread t2(increment);
   // std::jthread tj1(increment);
   t1.join();
-  t2.join();
+  // t2.join();
   cout << "=== finished counter: " << counter << endl;
   return 0;
 }
