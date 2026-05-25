@@ -12,8 +12,14 @@
 
 ## Titles
 
-- What is a Lock Leak, and How do you prevent it?
-- Preventing the Lock Leak in C++ Multithreading
+- The 1 Line of C++ That Prevents Mutex Lock Leaks
+
+- Stop Manually Locking and Unlocking Your Mutexes in C++
+- The C++ Threading Mistake Senior Engineers See in Seconds
+
+- Never Use .lock() in Modern C++ Multithreading
+- The Anatomy of a C++ Lock Leak (and how to fix it)
+- Why Manually Locking and Unlocking a C++ Mutex a Bad Idea
 
 ## References
 
