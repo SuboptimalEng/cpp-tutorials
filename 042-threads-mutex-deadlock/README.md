@@ -2,12 +2,12 @@
 
 - What is a dead lock?
   - 2 threads are stuck waiting for lock held by another thread
-- How to prevent dead lock?
+- Simple strategies to prevent deadlock
   - Don't use multiple locks if possible
   - Use same order of lock/unlock (hard to remember)
     - Show this works with thread/sleep
-- How to actually prevent dead lock?
-  - Wait for unlocks with `std::lock lock(mtx1, mtx2);`
+  - Don't nest your locks
+  - Use lock-free data structures like atomics
 
 ## Titles
 
