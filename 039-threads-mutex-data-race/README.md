@@ -7,6 +7,13 @@
   - Read optimized assembly code
   - Macro (assembly) ops vs micro (CPU) ops
 
+<!-- ```cpp
+void race() {}
+thread t1(race);
+thread t2(race);
+thread t3(race);
+``` -->
+
 ## Titles
 
 - What ACTUALLY Causes a Data Race in C++ (It's not assembly)

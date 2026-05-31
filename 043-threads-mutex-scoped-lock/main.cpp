@@ -9,6 +9,9 @@ std::mutex mtx1;
 std::mutex mtx2;
 int counter = 0;
 
+// 👎 std::lock
+// 🤌 std::scoped_lock
+
 void increment1() {
   for (size_t i = 0; i < 1000; i++) {
     std::scoped_lock lock(mtx1, mtx2);
