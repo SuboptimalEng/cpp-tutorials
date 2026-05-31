@@ -12,11 +12,11 @@
 
 ## Titles
 
-- The 1 Line of C++ That Prevents Mutex Lock Leaks
-
+- Stop Locking C++ Mutexes Like a Junior Engineer
 - Stop Manually Locking and Unlocking Your Mutexes in C++
 - The C++ Threading Mistake Senior Engineers See in Seconds
 
+- The 1 Line of C++ That Prevents Mutex Lock Leaks
 - Never Use .lock() in Modern C++ Multithreading
 - The Anatomy of a C++ Lock Leak (and how to fix it)
 - Why Manually Locking and Unlocking a C++ Mutex a Bad Idea

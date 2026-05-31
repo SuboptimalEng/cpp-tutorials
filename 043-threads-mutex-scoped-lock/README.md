@@ -8,10 +8,13 @@
 
 ## Titles
 
+- The 1 Line of C++ That Makes Deadlocks Physically Impossible
+- The Modern C++ Way to Lock Multiple Mutexes Safely
+- std::lock vs std::scoped_lock: Which One Should You Use?
+
 - How Senior Engineers Prevent Deadlocks in Modern C++
+- How C++17 Solved the Deadlock Problem Forever
 - How to Actually Prevent a Deadlock in C++?
-- How to Prevent Deadlocks in Modern C++?
-- Using `std::lock` to prevent deadlocks
 
 ## References
 
