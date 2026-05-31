@@ -9,10 +9,10 @@
 
 ## Titles
 
-- What is a C++ Dead Lock?
 - Why Your Multithreaded C++ Code Randomly Stops Running (Deadlocks Explained)
-- What Actually Happens When Two Threads Try to Lock the Same Mutex?
+- The C++ Concurrency Mistake Every Developer Makes Eventually
 - What Happens When Two Threads Try to Lock the Same Mutex?
+- What is a Deadlock in C++?
 
 ## References
 
