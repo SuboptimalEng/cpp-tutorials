@@ -11,9 +11,10 @@ int counter = 0;
 
 void increment1() {
   for (size_t i = 0; i < 1000; i++) {
-    std::lock(mtx1, mtx2);
-    std::lock_guard<std::mutex> lock1(mtx1, std::adopt_lock);
-    std::lock_guard<std::mutex> lock2(mtx2, std::adopt_lock);
+    std::scoped_lock lock(mtx1, mtx2);
+    // std::lock(mtx1, mtx2);
+    // std::lock_guard<std::mutex> lock1(mtx1, std::adopt_lock);
+    // std::lock_guard<std::mutex> lock2(mtx2, std::adopt_lock);
     counter++;
     cout << "counter: " << counter << endl;
   }
@@ -21,9 +22,10 @@ void increment1() {
 
 void increment2() {
   for (size_t i = 0; i < 1000; i++) {
-    std::lock(mtx1, mtx2);
-    std::lock_guard<std::mutex> lock2(mtx2, std::adopt_lock);
-    std::lock_guard<std::mutex> lock1(mtx1, std::adopt_lock);
+    std::scoped_lock lock(mtx1, mtx2);
+    // std::lock(mtx1, mtx2);
+    // std::lock_guard<std::mutex> lock2(mtx2, std::adopt_lock);
+    // std::lock_guard<std::mutex> lock1(mtx1, std::adopt_lock);
     counter++;
     cout << "counter: " << counter << endl;
   }
