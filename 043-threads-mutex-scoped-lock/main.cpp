@@ -9,7 +9,8 @@ std::mutex mtx1;
 std::mutex mtx2;
 int counter = 0;
 
-// 👎 std::lock
+// 💀 std::lock_guard
+// 😒 std::lock
 // 🤌 std::scoped_lock
 
 void increment1() {
