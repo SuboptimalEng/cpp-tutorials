@@ -21,6 +21,8 @@ void producer() {
   cv.notify_one();
 }
 
+// std::unique_lock
+
 void consumer() {
   std::unique_lock<std::mutex> lock(mtx, std::defer_lock);
   cout << "Consumer has started..." << endl;

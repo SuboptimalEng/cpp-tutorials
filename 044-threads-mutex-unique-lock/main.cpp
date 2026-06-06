@@ -8,6 +8,8 @@ using namespace std;
 std::mutex mtx1;
 int counter = 0;
 
+// std::unique_lock
+
 void increment() {
   for (size_t i = 0; i < 10; i++) {
     // std::lock_guard<std::mutex> lock1(mtx1);
