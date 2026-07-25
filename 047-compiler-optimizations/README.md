@@ -1,5 +1,13 @@
 ## Video Overview
 
+- Summarize old locks
+- Why use unique lock?
+  - More control than lock_guard
+- What can unique lock do?
+  - [Library level code] Defer locking at first
+  - Manually lock and unlock
+  - [Main reason] Conditional variables
+
 ## Titles
 
 - Introduction to Contructors in C++

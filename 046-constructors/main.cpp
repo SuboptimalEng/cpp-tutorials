@@ -98,3 +98,14 @@ int main() {
   b3.PrintData();
   return 0;
 }
+
+// struct Box2D {
+//   int width;
+//   int height;
+//   Box2D();
+// };
+
+// Box2D::Box2D() {
+//   this->width = 1;
+//   this->height = 1;
+// }
