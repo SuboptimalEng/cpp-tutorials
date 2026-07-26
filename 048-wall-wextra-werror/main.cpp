@@ -1,31 +1,30 @@
-#include <cassert>
 #include <iostream>
-#include <vector>
 
-int sum100() {
-  int result = 0;
-  for (int i = 0; i <= 100; ++i) {
-    result += i;
-  }
-  return result;
+// -Wall code
+int getValue() {
+  int temp = 100;  // Warning: unused variable
+                   // Missing return statement
 }
 
-int sumVector(std::vector<int>& v) {
-  int result = 0;
-  for (int i = 0; i <= v.size(); ++i) {
-    result += v[i];
-  }
-  return result;
-}
-
-int main(int argc) {
-  // int s1 = sum100();
-  // std::cout << "sum 100: " << s1 << std::endl;
-
-  // Dynamic size prevents constant folding (1000 elements)
-  std::vector<int> v(argc > 100 ? 10 : 1000, 5);
-  int s2 = sumVector(v);
-  std::cout << "sum vector: " << s2 << std::endl;
-
+int main() {
+  int x;  // Warning: used uninitialized
+  std::cout << "Hello: " << x << "\n";
+  getValue();
   return 0;
 }
+
+// -Wextra code
+// void printMessage(int count) {  // Warning: unused parameter
+//   std::cout << "Hello\n";
+// }
+
+// int main() {
+//   unsigned int size = 10;
+//   if (size < 0) {  // Warning: comparison always false
+//     std::cout << "Negative\n";
+//   }
+//   if (size > 5)
+//     ;  // Warning: empty if body
+//   printMessage(5);
+//   return 0;
+// }
