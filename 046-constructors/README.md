@@ -17,4 +17,6 @@
 
 ## References
 
+- [cppreference.com](https://cppreference.com/cpp)
+- [learncpp.com](https://www.learncpp.com/)
 - ChatGPT and Gemini
