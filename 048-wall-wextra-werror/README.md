@@ -4,14 +4,18 @@
   -Wall: "Tell me about the obvious problems."
   -Wextra: "Tell me about less obvious problems too."
   -Werror: "Don't let me compile the program if there are any warnings."
+
 - Why do we need Wextra, shouldn't Wall handle all errors?
   - Late 80s -Wall was created
   - As more warnings were added as GCC evolved and could detect more bugs
     - Added -W
     - The -W flag was confusing because -Wall already existed...
     - Early 2000s, -Wextra was introduced as preferred name for -W
+
 - Wall errors examples
+
 - Wextra errors examples
+
 - Werror demo
 
 ## Titles
