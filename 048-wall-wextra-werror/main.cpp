@@ -6,25 +6,24 @@ int getValue() {
                    // Missing return statement
 }
 
+// -Wextra code
+void printMessage(int count) {  // Warning: unused parameter
+  std::cout << "Hello from printMessage\n";
+}
+
 int main() {
   int x;  // Warning: used uninitialized
   std::cout << "Hello: " << x << "\n";
   getValue();
+  printMessage(5);
   return 0;
 }
 
-// -Wextra code
+// // -Wextra code
 // void printMessage(int count) {  // Warning: unused parameter
-//   std::cout << "Hello\n";
+//   std::cout << "Hello from printMessage\n";
 // }
-
 // int main() {
-//   unsigned int size = 10;
-//   if (size < 0) {  // Warning: comparison always false
-//     std::cout << "Negative\n";
-//   }
-//   if (size > 5)
-//     ;  // Warning: empty if body
 //   printMessage(5);
 //   return 0;
 // }
