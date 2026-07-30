@@ -1,9 +1,9 @@
 ## Video Overview
 
 - Compiler phases (high-level)
-  - preprocessor -> copy-paste include file code
-  - assembler -> convert to assembly
-  - linker -> links them together... but wtf does that mean?
+  - Preprocessor -> copy-paste include file code
+  - Assembler -> convert to assembly
+  - Linker -> links them together... but wtf does that mean?
 
 - Linker combines multiple object files (.o) into a single executable by doing two main things:
   - Merges separate assembly code blocks (.text sections) into one file.
