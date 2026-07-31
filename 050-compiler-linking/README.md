@@ -1,8 +1,9 @@
 ## Video Overview
 
 - Compiler phases (high-level)
-  - Preprocessor -> copy-paste include file code
-  - Assembler -> convert to assembly
+  - Preprocessor: copy-paste include file code
+  - Compiler: extended cpp -> assembly (main.s)
+  - Assembler: assembly -> machine code (main.o)
   - Linker -> links them together... but wtf does that mean?
 
 - Linker combines multiple object files (.o) into a single executable by doing two main things:
