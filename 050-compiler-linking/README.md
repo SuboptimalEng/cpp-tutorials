@@ -4,9 +4,9 @@
   - Preprocessor: copy-paste include file code
   - Compiler: extended cpp -> assembly (main.s)
   - Assembler: assembly -> machine code (main.o)
-  - Linker -> links them together... but wtf does that mean?
+  - Linker: links them together... but wtf does that mean?
 
-- Linker combines multiple object files (.o) into a single executable by doing two main things:
+- Linker combines multiple object files (.o) into a single executable by:
   - Merges separate assembly code blocks (.text sections) into one file.
   - Fills in the actual memory addresses for function calls (like main() calling a function in math.o) so the CPU knows where to jump.
 
