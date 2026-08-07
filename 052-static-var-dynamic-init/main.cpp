@@ -1,8 +1,5 @@
 #include <iostream>
 
-// Static variables are not considered best practice
-// But there are seen in programming classes heh, or if you use constants like `std::numbers::pi`.
-
 // How does C++ handle static variables in the compiler/assembly?
 // 2 cases (comp-time vs run-time)
 // - [this video] static var determined at compile-time
@@ -15,15 +12,14 @@
 //   - pre-C++ 11, this was NOT thread-safe!
 //   - C++ adds locking + possible boolean check (into assembly behind-the-scenes)
 
-// In this video, we will go over what they are, and more
-// importantly, how C++ constructs + handles them!
+int getRandom() {
+  return 9;
+}
 
 void MyFn() {
-  int localVar = 8;
-  localVar++;
-  static int count = 8;
+  static int count = getRandom();
   count++;
-  // std::cout << "local: " << localVar << ", static: " << count << std::endl;
+  // std::cout << "static: " << count << std::endl;
 }
 
 int main() {
