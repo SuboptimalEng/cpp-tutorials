@@ -18,7 +18,15 @@
 
 - Werror demo
 
+```bash
+clang++ -Wall -Wextra -Werror main.cpp -o main && ./main
+```
+
 ## Titles
+
+- Why Do You Need -Wextra When You Already Have -Wall?
+- What Do These C++ Compiler Flags Do?
+- Why Enable -Wall and -Wextra in C++?
 
 - C++ Wall, Wextra, Werror Explained
 - Why you should enable Wall, Wextra, Werror in C++
