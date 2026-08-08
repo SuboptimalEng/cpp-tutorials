@@ -24,10 +24,11 @@ clang++ -Wall -Wextra -Werror main.cpp -o main && ./main
 
 ## Titles
 
-- Why Do You Need -Wextra When You Already Have -Wall in C++?
+- Why Does C++ Need -Wextra If You Already Have -Wall?
 - What Do These C++ Compiler Flags Do?
 - Why Enable -Wall and -Wextra in C++?
 
+- Why Do You Need -Wextra When You Already Have -Wall in C++?
 - C++ Wall, Wextra, Werror Explained
 - Why you should enable Wall, Wextra, Werror in C++
 - Why is it recommended to enable Wall, Wextra, Werror in C++?
