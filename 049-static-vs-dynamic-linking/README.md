@@ -30,6 +30,11 @@
 
 ## Commands
 
+<!-- ```bash
+# ⚡️ libMath.a
+# 🧨 libMath.dylib
+``` -->
+
 ```bash
 cmake -S . -B build && cmake --build build
 ```
@@ -42,7 +47,10 @@ image lookup --name add
 
 ## Titles
 
-- Static vs Dynamic Linking
+- What Does the C++ Linker Actually Do?
+- What's the Difference Between Static and Dynamic Linking in C++?
+- How Does C++ Link Static and Dynamic Libraries?
+- What does the C++ compiler do when you link your code?
 
 ## References
 
