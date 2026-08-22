@@ -39,7 +39,11 @@ clang++ math.o main.o -o main
 
 ## Titles
 
-- What exactly does the C++ linker do?
+- What Exactly Does the C++ Linker Do?
+- How the C++ Linker Builds Your Executable (Step-by-Step)
+
+- You Probably Didn't Know This About the C++ Linker
+- How the C++ Linker Works: Symbol Resolution & Relocation
 - How does the C++ compiler's linker work?
 
 ## References
