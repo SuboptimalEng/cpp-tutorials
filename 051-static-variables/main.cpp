@@ -18,12 +18,14 @@
 // In this video, we will go over what they are, and more
 // importantly, how C++ constructs + handles them!
 
+// static int count = 0;
+
 void MyFn() {
   int localVar = 8;
   localVar++;
   static int count = 8;
   count++;
-  // std::cout << "local: " << localVar << ", static: " << count << std::endl;
+  std::cout << "local: " << localVar << ", static: " << count << std::endl;
 }
 
 int main() {
