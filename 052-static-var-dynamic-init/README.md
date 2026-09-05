@@ -6,9 +6,10 @@ How does the C++ compiler initialize static variables at runtime?
 
 - Why C++ Static Variables Secretly Use Mutexes
 - How C++ Static Variables Add Hidden Runtime Cost
+- How the C++ Compiler Initializes Static Variables at Runtime
+
 - C++ Compiler Magic that Allows You to Initialize Static Variables at Runtime
 - The Hidden Code Inside C++ Runtime Static Variable
-- How the C++ Compiler Initializes Static Variables at Runtime
 - Why C++ Local Statics Secretly Use Mutexes
 
 ## References
