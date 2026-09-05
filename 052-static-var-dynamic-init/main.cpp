@@ -16,14 +16,8 @@ int getRandom() {
   return 9;
 }
 
-int fn() {
-  return 1;
-}
-
-) {
-
+void MyFn() {
   // static int c = fn();
-
   static int count = getRandom();
   count++;
   // std::cout << "static: " << count << std::endl;
