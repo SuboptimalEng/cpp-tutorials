@@ -4,9 +4,13 @@
 // optional!?
 // #include <string>
 
+// so does this mean that th
+
 int main() {
+  std::string str = "dih";
   std::string s = "hello world!";
   std::cout << s << std::endl;
+  std::cout << str << std::endl;
   return 0;
 }
 
